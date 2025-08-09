@@ -1,7 +1,7 @@
 # Mood-to-Music-Player
 Detects your mood from text you type (or a short voice note) and plays a matching playlist from your local music folder.
 
-# Respository Structure
+## Respository Structure
 mood-to-music-player/
 │
 ├── README.md
