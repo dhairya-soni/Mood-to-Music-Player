@@ -1,0 +1,17 @@
+{
+  "happy": {
+    "genres": ["pop", "dance", "upbeat"],
+    "energy_level": "high",
+    "tempo_range": [120, 180]
+  },
+  "sad": {
+    "genres": ["ballad", "acoustic", "blues"],
+    "energy_level": "low",
+    "tempo_range": [60, 90]
+  },
+  "neutral": {
+    "genres": ["indie", "chill", "acoustic"],
+    "energy_level": "medium",
+    "tempo_range": [90, 120]
+  }
+}
