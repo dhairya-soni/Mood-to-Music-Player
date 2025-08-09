@@ -2,6 +2,7 @@
 Detects your mood from text you type (or a short voice note) and plays a matching playlist from your local music folder.
 
 ## Respository Structure
+```
 mood-to-music-player/
 │
 ├── README.md
@@ -67,3 +68,4 @@ mood-to-music-player/
 └── examples/
     ├── sample_texts.txt
     └── demo.py
+```
